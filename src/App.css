@@ -1,0 +1,12 @@
+#root {
+  max-width: 100vw;
+  max-height: 100vh;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
